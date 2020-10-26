@@ -13,6 +13,10 @@ You need practice data in order to learn Structured Query Language (SQL) and the
 
 Wrtten directions are available at https://dev.mysql.com/doc/world-setup/en/ and the database can be download at https://dev.mysql.com/doc/index-other.html
 
-#3 First queries using SELECT = https://youtu.be/8KHt4eeDRLw
+#3 First queries using SELECT - https://youtu.be/8KHt4eeDRLw
 
 Novices need to write queries but those first few times can be frightening. In this episode we start with some very simple queries on which we will build on later. 
+
+#4 Data Types - https://youtu.be/Cq8YHTWgVGg
+
+What can you store in a database? Anything!  This is an overview of your options on how you store your data
