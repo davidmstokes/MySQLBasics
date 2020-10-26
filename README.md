@@ -1,4 +1,4 @@
-# MySQLBasics
+# Dave's MySQL Basics
 
 This is an introductory series for those wishing to learn how to use the MySQL database.
 
@@ -12,3 +12,7 @@ Before you can use the database server, you need to know a little about how to u
 You need practice data in order to learn Structured Query Language (SQL) and the world database has been used for decades by MySQL.  You will learn how to load the data.  
 
 Wrtten directions are available at https://dev.mysql.com/doc/world-setup/en/ and the database can be download at https://dev.mysql.com/doc/index-other.html
+
+#3 First queries using SELECT = https://youtu.be/8KHt4eeDRLw
+
+Novices need to write queries but those first few times can be frightening. In this episode we start with some very simple queries on which we will build on later. 
