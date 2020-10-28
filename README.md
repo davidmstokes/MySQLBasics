@@ -20,3 +20,15 @@ Novices need to write queries but those first few times can be frightening. In t
 #4 Data Types - https://youtu.be/Cq8YHTWgVGg
 
 What can you store in a database? Anything!  This is an overview of your options on how you store your data
+
+#5 Create a simmple table and load some data  -- https://youtu.be/Cg7cdqzl8-k
+
+Creating a table from scratch is easy and you will soo how to do just that, add in some data, and then query that data.
+
+#6 Auto Increment Introduction -- https://youtu.be/2g2Nkwlbk4w
+
+The MySQL can automatically increment an integer or real column for use as a unique index number and this episode shows you what you need to make that happen.
+
+#7 Automatic date or time stamp - https://youtu.be/x-rsUTr6qZ4
+
+This is how you have the MySQL server automatically record the time a record is created or updated.  
