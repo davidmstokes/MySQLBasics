@@ -32,3 +32,7 @@ The MySQL can automatically increment an integer or real column for use as a uni
 #7 Automatic date or time stamp - https://youtu.be/x-rsUTr6qZ4
 
 This is how you have the MySQL server automatically record the time a record is created or updated.  
+
+#8 Databases: Creating, dropping, and altering -- https://youtu.be/xiJPCogAlV4
+
+MySQL uses the terms schema and databases interchangeably but which ever you want to call it you need to know how to create them and alter them.
