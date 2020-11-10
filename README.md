@@ -36,3 +36,7 @@ This is how you have the MySQL server automatically record the time a record is 
 #8 Databases: Creating, dropping, and altering -- https://youtu.be/xiJPCogAlV4
 
 MySQL uses the terms schema and databases interchangeably but which ever you want to call it you need to know how to create them and alter them.
+
+#9 Default values - https://youtu.be/3Gh3e3lFpJo
+
+You can specify default values for columns and this episode shows you the basics.
