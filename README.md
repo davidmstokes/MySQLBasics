@@ -40,3 +40,7 @@ MySQL uses the terms schema and databases interchangeably but which ever you wan
 #9 Default values - https://youtu.be/3Gh3e3lFpJo
 
 You can specify default values for columns and this episode shows you the basics.
+
+#10 JOINing tables - https://youtu.be/kri_IwnsrpI
+
+This episode shows to to join to tables on a common column with the MySQL World database
