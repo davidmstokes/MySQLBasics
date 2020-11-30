@@ -43,4 +43,8 @@ You can specify default values for columns and this episode shows you the basics
 
 #10 JOINing tables - https://youtu.be/kri_IwnsrpI
 
-This episode shows to to join to tables on a common column with the MySQL World database
+This episode shows to to join two tables on a common column with the MySQL World database
+
+#11 JOINing more than two tables -- https://youtu.be/24ZxY9cRkaA
+
+Three tables joined together in able to retreive more data. Plus a peek at GROUP_CONCAT()
