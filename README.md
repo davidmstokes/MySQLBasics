@@ -48,3 +48,11 @@ This episode shows to to join two tables on a common column with the MySQL World
 #11 JOINing more than two tables -- https://youtu.be/24ZxY9cRkaA
 
 Three tables joined together in able to retreive more data. Plus a peek at GROUP_CONCAT()
+
+#12 SELECT -- https://youtu.be/uEGugVYrx9g
+
+SELECT is the command used to query data from the database and we start looking at how to use it in this episode
+
+#13  GROUP BY and ORDER BY -- https://youtu.be/Vqm02nnApZo
+
+Arranging the output can be confusing as there are so many options.  And we start with this look at using ORDER by and GROUP BY
